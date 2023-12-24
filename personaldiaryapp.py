@@ -1,6 +1,6 @@
 # My Personal Diary Application
 # List of requirements for diary application : title, text features, menu, user login.
-# Please create a file named 'personaldiaryapp.txt'.(in the development stage)
+# Please create a file named 'diaryapp.txt'.(in the development stage)
 
 
 import sys
